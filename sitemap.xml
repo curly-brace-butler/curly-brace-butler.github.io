@@ -1,17 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://johnathanbutler.com/categories/</loc>
-  </url>
-  
   <url>
     <loc>https://johnathanbutler.com/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-20T17:51:47+03:30</lastmod>
+  </url><url>
+    <loc>https://johnathanbutler.com/news/</loc>
+    <lastmod>2020-11-20T17:51:47+03:30</lastmod>
+  </url><url>
+    <loc>https://johnathanbutler.com/about/</loc>
+    <lastmod>2020-10-20T17:51:47+03:30</lastmod>
+  </url><url>
+    <loc>https://johnathanbutler.com/tags/anti-cheat/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnathanbutler.com/blog/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnathanbutler.com/blog/blog1/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnathanbutler.com/tags/game-development/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnathanbutler.com/tags/security/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnathanbutler.com/tags/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johnathanbutler.com/categories/</loc>
   </url>
-  
 </urlset>
